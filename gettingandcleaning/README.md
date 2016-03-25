@@ -11,7 +11,7 @@ The script that performs the data retrieval and cleaning
 - `results.txt`
 The saved result of the 5th step in the script.
 
-## Exectute analysis
+## Analysis
 
 The analysis is performed by running the `run_analysis.R` script
  
